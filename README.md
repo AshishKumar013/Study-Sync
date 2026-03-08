@@ -122,3 +122,6 @@ This project is open source and available under the [MIT License](LICENSE).
 ---
 
 *Built with ❤️ using only HTML5 & CSS3 — no frameworks, no libraries.*
+---
+*Give a ⭐ if you liked this project!*
+---
